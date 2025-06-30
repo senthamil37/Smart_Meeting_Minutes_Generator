@@ -24,6 +24,3 @@ Automatically transcribe meeting audio and generate concise, structured meeting 
 - Upload a meeting audio file
 - Click 'Generate Minutes' to get your summary
 - Download or copy the meeting minutes
-
-## Screenshots
-Add your screenshots in the `/screenshots` folder after running the app. 
